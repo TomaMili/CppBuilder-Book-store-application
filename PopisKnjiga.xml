@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<popis>
+	<knjiga>
+		<id>3</id>
+		<naziv>Pride and Prejudice</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Jane Austen</autor>
+		<stranice>279</stranice>
+	</knjiga>
+	<knjiga>
+		<id>4</id>
+		<naziv>1984</naziv>
+		<zanr>Fiction</zanr>
+		<autor>George Orwell</autor>
+		<stranice>298</stranice>
+	</knjiga>
+	<knjiga>
+		<id>5</id>
+		<naziv>Crime and Punishment</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Fyodor Dostoevsky</autor>
+		<stranice>671</stranice>
+	</knjiga>
+	<knjiga>
+		<id>6</id>
+		<naziv>Hamlet</naziv>
+		<zanr>Drama</zanr>
+		<autor>William Shakespeare</autor>
+		<stranice>289</stranice>
+	</knjiga>
+	<knjiga>
+		<id>7</id>
+		<naziv>One Hundred Years of Solitude</naziv>
+		<zanr>Magical Realism</zanr>
+		<autor>Gabriel García Márquez</autor>
+		<stranice>417</stranice>
+	</knjiga>
+	<knjiga>
+		<id>8</id>
+		<naziv>Anna Karenina</naziv>
+		<zanr>Romance</zanr>
+		<autor>Leo Tolstoy</autor>
+		<stranice>960</stranice>
+	</knjiga>
+	<knjiga>
+		<id>9</id>
+		<naziv>The Odyssey</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Homer</autor>
+		<stranice>544</stranice>
+	</knjiga>
+	<knjiga>
+		<id>10</id>
+		<naziv>The Stranger</naziv>
+		<zanr>Fantazija</zanr>
+		<autor>Albert Camus</autor>
+		<stranice>159</stranice>
+	</knjiga>
+	<knjiga>
+		<id>11</id>
+		<naziv>The Brothers Karamazov</naziv>
+		<zanr>Drama</zanr>
+		<autor>Fyodor Dostoevsky</autor>
+		<stranice>796</stranice>
+	</knjiga>
+	<knjiga>
+		<id>12</id>
+		<naziv>Lolita</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Vladimir Nabokov</autor>
+		<stranice>368</stranice>
+	</knjiga>
+	<knjiga>
+		<id>13</id>
+		<naziv>The Old Man and the Sea</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Ernest Hemingway</autor>
+		<stranice>96</stranice>
+	</knjiga>
+	<knjiga>
+		<id>14</id>
+		<naziv>Great Expectations</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Charles Dickens</autor>
+		<stranice>544</stranice>
+	</knjiga>
+	<knjiga>
+		<id>15</id>
+		<naziv>Don Quixote</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Miguel de Cervantes Saavedra</autor>
+		<stranice>1023</stranice>
+	</knjiga>
+	<knjiga>
+		<id>16</id>
+		<naziv>The Iliad</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Homer</autor>
+		<stranice>704</stranice>
+	</knjiga>
+	<knjiga>
+		<id>17</id>
+		<naziv>War and Peace</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Leo Tolstoy</autor>
+		<stranice>1392</stranice>
+	</knjiga>
+	<knjiga>
+		<id>18</id>
+		<naziv>Madame Bovary</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Gustave Flaubert</autor>
+		<stranice>329</stranice>
+	</knjiga>
+	<knjiga>
+		<id>19</id>
+		<naziv>The Trial</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Franz Kafka</autor>
+		<stranice>255</stranice>
+	</knjiga>
+	<knjiga>
+		<id>20</id>
+		<naziv>The Divine Comedy</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Dante Alighieri</autor>
+		<stranice>798</stranice>
+	</knjiga>
+	<knjiga>
+		<id>21</id>
+		<naziv>Moby-Dick</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Herman Melville</autor>
+		<stranice>720</stranice>
+	</knjiga>
+	<knjiga>
+		<id>22</id>
+		<naziv>King Lear</naziv>
+		<zanr>Poetry</zanr>
+		<autor>William Shakespeare</autor>
+		<stranice>338</stranice>
+	</knjiga>
+	<knjiga>
+		<id>23</id>
+		<naziv>Love in the Time of Cholera</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Gabriel García Márquez</autor>
+		<stranice>348</stranice>
+	</knjiga>
+	<knjiga>
+		<id>24</id>
+		<naziv>The Complete Fairy Tales</naziv>
+		<zanr>Fantasy</zanr>
+		<autor>Hans Christian Andersen</autor>
+		<stranice>803</stranice>
+	</knjiga>
+	<knjiga>
+		<id>25</id>
+		<naziv>Mrs. Dalloway</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Virginia Woolf</autor>
+		<stranice>194</stranice>
+	</knjiga>
+	<knjiga>
+		<id>26</id>
+		<naziv>Othello</naziv>
+		<zanr>Drama</zanr>
+		<autor>William Shakespeare</autor>
+		<stranice>314</stranice>
+	</knjiga>
+	<knjiga>
+		<id>27</id>
+		<naziv>The Arabian Nights</naziv>
+		<zanr>Mythology</zanr>
+		<autor>Anonymous</autor>
+		<stranice>1049</stranice>
+	</knjiga>
+	<knjiga>
+		<id>28</id>
+		<naziv>Ulysses</naziv>
+		<zanr>Fiction</zanr>
+		<autor>James Joyce</autor>
+		<stranice>925</stranice>
+	</knjiga>
+	<knjiga>
+		<id>29</id>
+		<naziv>The Sound and the Fury</naziv>
+		<zanr>Fiction</zanr>
+		<autor>William Faulkner</autor>
+		<stranice>366</stranice>
+	</knjiga>
+	<knjiga>
+		<id>30</id>
+		<naziv>Oedipus Rex (The Theban Plays, #1)</naziv>
+		<zanr>Mythology</zanr>
+		<autor>Sophocles</autor>
+		<stranice>75</stranice>
+	</knjiga>
+	<knjiga>
+		<id>31</id>
+		<naziv>Gulliver’s Travels</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Jonathan Swift</autor>
+		<stranice>306</stranice>
+	</knjiga>
+	<knjiga>
+		<id>32</id>
+		<naziv>The Canterbury Tales</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Geoffrey Chaucer</autor>
+		<stranice>504</stranice>
+	</knjiga>
+	<knjiga>
+		<id>33</id>
+		<naziv>The Idiot</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Fyodor Dostoevsky</autor>
+		<stranice>667</stranice>
+	</knjiga>
+	<knjiga>
+		<id>34</id>
+		<naziv>Pippi Longstocking</naziv>
+		<zanr>Fantasy</zanr>
+		<autor>Astrid Lindgren</autor>
+		<stranice>160</stranice>
+	</knjiga>
+	<knjiga>
+		<id>35</id>
+		<naziv>Du côté de chez Swann</naziv>
+		<zanr>Fantasy</zanr>
+		<autor>Marcel Proust</autor>
+		<stranice>710</stranice>
+	</knjiga>
+	<knjiga>
+		<id>36</id>
+		<naziv>The Collected Tales of Edgar Allan Po</naziv>
+		<zanr>Horror</zanr>
+		<autor>Edgar Allan Poe</autor>
+		<stranice>295</stranice>
+	</knjiga>
+	<knjiga>
+		<id>37</id>
+		<naziv>To the Lighthouse</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Virginia Woolf</autor>
+		<stranice>209</stranice>
+	</knjiga>
+	<knjiga>
+		<id>38</id>
+		<naziv>Beloved</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Toni Morrison</autor>
+		<stranice>324</stranice>
+	</knjiga>
+	<knjiga>
+		<id>39</id>
+		<naziv>Faust, First Part</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Johann Wolfgang von Goethe</autor>
+		<stranice>327</stranice>
+	</knjiga>
+	<knjiga>
+		<id>40</id>
+		<naziv>Blindness</naziv>
+		<zanr>Dystopia</zanr>
+		<autor>José Saramago</autor>
+		<stranice>326</stranice>
+	</knjiga>
+	<knjiga>
+		<id>41</id>
+		<naziv>Things Fall Apart</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Chinua Achebe</autor>
+		<stranice>215</stranice>
+	</knjiga>
+	<knjiga>
+		<id>42</id>
+		<naziv>Ficciones</naziv>
+		<zanr>Magical Realism</zanr>
+		<autor>Jorge Luis Borges</autor>
+		<stranice>174</stranice>
+	</knjiga>
+	<knjiga>
+		<id>43</id>
+		<naziv>Zorba the Greek</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Nikos Kazantzakis</autor>
+		<stranice>335</stranice>
+	</knjiga>
+	<knjiga>
+		<id>44</id>
+		<naziv>The Death of Ivan Ilych</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Leo Tolstoy</autor>
+		<stranice>86</stranice>
+	</knjiga>
+	<knjiga>
+		<id>45</id>
+		<naziv>Middlemarch</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>George Eliot</autor>
+		<stranice>912</stranice>
+	</knjiga>
+	<knjiga>
+		<id>46</id>
+		<naziv>Midnight’s Children</naziv>
+		<zanr>Magical Realism</zanr>
+		<autor>Salman Rushdie</autor>
+		<stranice>647</stranice>
+	</knjiga>
+	<knjiga>
+		<id>47</id>
+		<naziv>The Epic of Gilgamesh</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Anonymous</autor>
+		<stranice>120</stranice>
+	</knjiga>
+	<knjiga>
+		<id>48</id>
+		<naziv>A Doll's House</naziv>
+		<zanr>Drama</zanr>
+		<autor>Henrik Ibsen</autor>
+		<stranice>122</stranice>
+	</knjiga>
+	<knjiga>
+		<id>49</id>
+		<naziv>Journey to the End of the Night</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Louis-Ferdinand Céline</autor>
+		<stranice>453</stranice>
+	</knjiga>
+	<knjiga>
+		<id>50</id>
+		<naziv>Invisible Man</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Ralph Ellison</autor>
+		<stranice>581</stranice>
+	</knjiga>
+	<knjiga>
+		<id>51</id>
+		<naziv>The Hobbit</naziv>
+		<zanr>Fantasy</zanr>
+		<autor>J.R.R.Tolkien</autor>
+		<stranice>310</stranice>
+	</knjiga>
+	<knjiga>
+		<id>52</id>
+		<naziv>Leaves of Grass</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Walt Whitman</autor>
+		<stranice>624</stranice>
+	</knjiga>
+	<knjiga>
+		<id>53</id>
+		<naziv>The Magic Mountain</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Thomas Mann</autor>
+		<stranice>706</stranice>
+	</knjiga>
+	<knjiga>
+		<id>54</id>
+		<naziv>The Book of Disquiet</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Fernando Pessoa</autor>
+		<stranice>544</stranice>
+	</knjiga>
+	<knjiga>
+		<id>55</id>
+		<naziv>The Man Without Qualities</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Robert Musil</autor>
+		<stranice>1774</stranice>
+	</knjiga>
+	<knjiga>
+		<id>56</id>
+		<naziv>Hunger</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Knut Hamsun</autor>
+		<stranice>134</stranice>
+	</knjiga>
+	<knjiga>
+		<id>56</id>
+		<naziv>The Decameron</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Giovanni Boccaccio</autor>
+		<stranice>909</stranice>
+	</knjiga>
+	<knjiga>
+		<id>57</id>
+		<naziv>Dead Souls</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Nikolai Gogol</autor>
+		<stranice>464</stranice>
+	</knjiga>
+	<knjiga>
+		<id>58</id>
+		<naziv>Metamorphoses</naziv>
+		<zanr>Mythology</zanr>
+		<autor>Ovid</autor>
+		<stranice>723</stranice>
+	</knjiga>
+	<knjiga>
+		<id>59</id>
+		<naziv>The Aeneid</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Virgil</autor>
+		<stranice>177</stranice>
+	</knjiga>
+	<knjiga>
+		<id>60</id>
+		<naziv>The Castle</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Franz Kafka</autor>
+		<stranice>328</stranice>
+	</knjiga>
+	<knjiga>
+		<id>61</id>
+		<naziv>Wuthering Heights</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Emily Brontë</autor>
+		<stranice>464</stranice>
+	</knjiga>
+	<knjiga>
+		<id>62</id>
+		<naziv>Medea</naziv>
+		<zanr>Drama</zanr>
+		<autor>Euripides</autor>
+		<stranice>59</stranice>
+	</knjiga>
+	<knjiga>
+		<id>63</id>
+		<naziv>Mahabharata</naziv>
+		<zanr>Mythology</zanr>
+		<autor>Anonymous</autor>
+		<stranice>249</stranice>
+	</knjiga>
+	<knjiga>
+		<id>64</id>
+		<naziv>The Red and the Black</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Stendhal</autor>
+		<stranice>577</stranice>
+	</knjiga>
+	<knjiga>
+		<id>65</id>
+		<naziv>The Complete Stories</naziv>
+		<zanr>Magical Realism</zanr>
+		<autor>Franz Kafka</autor>
+		<stranice>486</stranice>
+	</knjiga>
+	<knjiga>
+		<id>66</id>
+		<naziv>Gargantua and Pantagruel</naziv>
+		<zanr>Fiction</zanr>
+		<autor>François Rabelais</autor>
+		<stranice>1041</stranice>
+	</knjiga>
+	<knjiga>
+		<id>67</id>
+		<naziv>Selected Stories of Anton Chekhov</naziv>
+		<zanr>Short Stories</zanr>
+		<autor>Anton Chekhov</autor>
+		<stranice>496</stranice>
+	</knjiga>
+	<knjiga>
+		<id>68</id>
+		<naziv>Père Goriot</naziv>
+		<zanr>Fiction</zanr>
+		<autor>Honoré de Balzac</autor>
+		<stranice>384</stranice>
+	</knjiga>
+	<knjiga>
+		<id>69</id>
+		<naziv>The Tin Drum</naziv>
+		<zanr>Magical Realism</zanr>
+		<autor>Günter Grass</autor>
+		<stranice>580</stranice>
+	</knjiga>
+	<knjiga>
+		<id>70</id>
+		<naziv>The Adventures of Huckleberry Finn</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Mark Twain</autor>
+		<stranice>327</stranice>
+	</knjiga>
+	<knjiga>
+		<id>71</id>
+		<naziv>Absalom, Absalom!</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>William Faulkner</autor>
+		<stranice>316</stranice>
+	</knjiga>
+	<knjiga>
+		<id>72</id>
+		<naziv>Buddenbrooks: The Decline of a Family</naziv>
+		<zanr>Historical Fiction</zanr>
+		<autor>Thomas Mann</autor>
+		<stranice>731</stranice>
+	</knjiga>
+	<knjiga>
+		<id>73</id>
+		<naziv>Ramayana</naziv>
+		<zanr>Poetry</zanr>
+		<autor>Vālmīki</autor>
+		<stranice>461</stranice>
+	</knjiga>
+	<knjiga>
+		<id>74</id>
+		<naziv>Sons and Lovers</naziv>
+		<zanr>Fiction</zanr>
+		<autor>D.H. Lawrence</autor>
+		<stranice>654</stranice>
+	</knjiga>
+	<knjiga>
+		<id>75</id>
+		<naziv>Memoirs Of A Geisha</naziv>
+		<autor>Arthur Golden</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>448</stranice>
+	</knjiga>
+	<knjiga>
+		<id>76</id>
+		<naziv>asdasd</naziv>
+		<autor>Toma</autor>
+		<zanr>Fiction</zanr>
+		<stranice>123</stranice>
+	</knjiga>
+	<knjiga>
+		<id>77</id>
+		<naziv>Frankenstein</naziv>
+		<autor>Mary Shelley</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>280</stranice>
+	</knjiga>
+	<knjiga>
+		<id>78</id>
+		<naziv>The Picture of Dorian Gray</naziv>
+		<autor>Oscar Wilde</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>254</stranice>
+	</knjiga>
+	<knjiga>
+		<id>79</id>
+		<naziv>Dracula</naziv>
+		<autor>Bram Stoker</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>418</stranice>
+	</knjiga>
+	<knjiga>
+		<id>80</id>
+		<naziv>To Kill a Mockingbird</naziv>
+		<autor>Harper Lee</autor>
+		<zanr>Classic</zanr>
+		<stranice>324</stranice>
+	</knjiga>
+	<knjiga>
+		<id>81</id>
+		<naziv>The Catcher in the Rye</naziv>
+		<autor>J.D. Salinger</autor>
+		<zanr>Coming-of-Age Fiction</zanr>
+		<stranice>277</stranice>
+	</knjiga>
+	<knjiga>
+		<id>82</id>
+		<naziv>The Great Gatsby</naziv>
+		<autor>F. Scott Fitzgerald</autor>
+		<zanr>Classic</zanr>
+		<stranice>180</stranice>
+	</knjiga>
+	<knjiga>
+		<id>83</id>
+		<naziv>Brave New World</naziv>
+		<autor>Aldous Huxley</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>311</stranice>
+	</knjiga>
+	<knjiga>
+		<id>84</id>
+		<naziv>Animal Farm</naziv>
+		<autor>George Orwell</autor>
+		<zanr>Political Satire</zanr>
+		<stranice>112</stranice>
+	</knjiga>
+	<knjiga>
+		<id>85</id>
+		<naziv>The Bell Jar</naziv>
+		<autor>Sylvia Plath</autor>
+		<zanr>Autobiographical Fiction</zanr>
+		<stranice>244</stranice>
+	</knjiga>
+	<knjiga>
+		<id>86</id>
+		<naziv>Les Misérables</naziv>
+		<autor>Victor Hugo</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>1463</stranice>
+	</knjiga>
+	<knjiga>
+		<id>87</id>
+		<naziv>The Road</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Post-Apocalyptic Fiction</zanr>
+		<stranice>287</stranice>
+	</knjiga>
+	<knjiga>
+		<id>88</id>
+		<naziv>Crime and Punishment</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Psychological Fiction</zanr>
+		<stranice>551</stranice>
+	</knjiga>
+	<knjiga>
+		<id>89</id>
+		<naziv>Les Liaisons dangereuses</naziv>
+		<autor>Pierre Choderlos de Laclos</autor>
+		<zanr>Epistolary Novel</zanr>
+		<stranice>448</stranice>
+	</knjiga>
+	<knjiga>
+		<id>90</id>
+		<naziv>Walden</naziv>
+		<autor>Henry David Thoreau</autor>
+		<zanr>Philosophy</zanr>
+		<stranice>249</stranice>
+	</knjiga>
+	<knjiga>
+		<id>91</id>
+		<naziv>Moby-Dick</naziv>
+		<autor>Herman Melville</autor>
+		<zanr>Adventure Fiction</zanr>
+		<stranice>624</stranice>
+	</knjiga>
+	<knjiga>
+		<id>92</id>
+		<naziv>The Count of Monte Cristo</naziv>
+		<autor>Alexandre Dumas</autor>
+		<zanr>Adventure Fiction</zanr>
+		<stranice>1276</stranice>
+	</knjiga>
+	<knjiga>
+		<id>93</id>
+		<naziv>The Three Musketeers</naziv>
+		<autor>Alexandre Dumas</autor>
+		<zanr>Adventure Fiction</zanr>
+		<stranice>704</stranice>
+	</knjiga>
+	<knjiga>
+		<id>94</id>
+		<naziv>The Name of the Rose</naziv>
+		<autor>Umberto Eco</autor>
+		<zanr>Mystery</zanr>
+		<stranice>502</stranice>
+	</knjiga>
+	<knjiga>
+		<id>95</id>
+		<naziv>War and Peace</naziv>
+		<autor>Leo Tolstoy</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>1392</stranice>
+	</knjiga>
+	<knjiga>
+		<id>96</id>
+		<naziv>The Secret History</naziv>
+		<autor>Donna Tartt</autor>
+		<zanr>Mystery</zanr>
+		<stranice>559</stranice>
+	</knjiga>
+	<knjiga>
+		<id>97</id>
+		<naziv>The Wind-Up Bird Chronicle</naziv>
+		<autor>Haruki Murakami</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>607</stranice>
+	</knjiga>
+	<knjiga>
+		<id>98</id>
+		<naziv>The Lord of the Rings</naziv>
+		<autor>J.R.R. Tolkien</autor>
+		<zanr>Fantasy</zanr>
+		<stranice>1178</stranice>
+	</knjiga>
+	<knjiga>
+		<id>99</id>
+		<naziv>The Chronicles of Narnia</naziv>
+		<autor>C.S. Lewis</autor>
+		<zanr>Fantasy</zanr>
+		<stranice>767</stranice>
+	</knjiga>
+	<knjiga>
+		<id>100</id>
+		<naziv>A Tale of Two Cities</naziv>
+		<autor>Charles Dickens</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>544</stranice>
+	</knjiga>
+	<knjiga>
+		<id>101</id>
+		<naziv>Wuthering Heights</naziv>
+		<autor>Emily Brontë</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>416</stranice>
+	</knjiga>
+	<knjiga>
+		<id>102</id>
+		<naziv>The Odyssey</naziv>
+		<autor>Homer</autor>
+		<zanr>Epic Poetry</zanr>
+		<stranice>541</stranice>
+	</knjiga>
+	<knjiga>
+		<id>103</id>
+		<naziv>The Iliad</naziv>
+		<autor>Homer</autor>
+		<zanr>Epic Poetry</zanr>
+		<stranice>683</stranice>
+	</knjiga>
+	<knjiga>
+		<id>104</id>
+		<naziv>The Aeneid</naziv>
+		<autor>Virgil</autor>
+		<zanr>Epic Poetry</zanr>
+		<stranice>442</stranice>
+	</knjiga>
+	<knjiga>
+		<id>105</id>
+		<naziv>The Divine Comedy</naziv>
+		<autor>Dante Alighieri</autor>
+		<zanr>Epic Poetry</zanr>
+		<stranice>798</stranice>
+	</knjiga>
+	<knjiga>
+		<id>106</id>
+		<naziv>The Canterbury Tales</naziv>
+		<autor>Geoffrey Chaucer</autor>
+		<zanr>Medieval Literature</zanr>
+		<stranice>702</stranice>
+	</knjiga>
+	<knjiga>
+		<id>107</id>
+		<naziv>The Hunchback of Notre-Dame</naziv>
+		<autor>Victor Hugo</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>940</stranice>
+	</knjiga>
+	<knjiga>
+		<id>108</id>
+		<naziv>Don Quixote</naziv>
+		<autor>Miguel de Cervantes</autor>
+		<zanr>Satire</zanr>
+		<stranice>1072</stranice>
+	</knjiga>
+	<knjiga>
+		<id>109</id>
+		<naziv>Madame Bovary</naziv>
+		<autor>Gustave Flaubert</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>328</stranice>
+	</knjiga>
+	<knjiga>
+		<id>110</id>
+		<naziv>Sense and Sensibility</naziv>
+		<autor>Jane Austen</autor>
+		<zanr>Romance</zanr>
+		<stranice>416</stranice>
+	</knjiga>
+	<knjiga>
+		<id>111</id>
+		<naziv>Persuasion</naziv>
+		<autor>Jane Austen</autor>
+		<zanr>Romance</zanr>
+		<stranice>249</stranice>
+	</knjiga>
+	<knjiga>
+		<id>112</id>
+		<naziv>Mansfield Park</naziv>
+		<autor>Jane Austen</autor>
+		<zanr>Romance</zanr>
+		<stranice>514</stranice>
+	</knjiga>
+	<knjiga>
+		<id>113</id>
+		<naziv>Emma</naziv>
+		<autor>Jane Austen</autor>
+		<zanr>Romance</zanr>
+		<stranice>474</stranice>
+	</knjiga>
+	<knjiga>
+		<id>114</id>
+		<naziv>Great Expectations</naziv>
+		<autor>Charles Dickens</autor>
+		<zanr>Classic</zanr>
+		<stranice>505</stranice>
+	</knjiga>
+	<knjiga>
+		<id>115</id>
+		<naziv>David Copperfield</naziv>
+		<autor>Charles Dickens</autor>
+		<zanr>Classic</zanr>
+		<stranice>974</stranice>
+	</knjiga>
+	<knjiga>
+		<id>116</id>
+		<naziv>Bleak House</naziv>
+		<autor>Charles Dickens</autor>
+		<zanr>Classic</zanr>
+		<stranice>928</stranice>
+	</knjiga>
+	<knjiga>
+		<id>117</id>
+		<naziv>Anna Karenina</naziv>
+		<autor>Leo Tolstoy</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>864</stranice>
+	</knjiga>
+	<knjiga>
+		<id>118</id>
+		<naziv>Middlemarch</naziv>
+		<autor>George Eliot</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>880</stranice>
+	</knjiga>
+	<knjiga>
+		<id>119</id>
+		<naziv>Far from the Madding Crowd</naziv>
+		<autor>Thomas Hardy</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>432</stranice>
+	</knjiga>
+	<knjiga>
+		<id>120</id>
+		<naziv>Tess of the d'Urbervilles</naziv>
+		<autor>Thomas Hardy</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>592</stranice>
+	</knjiga>
+	<knjiga>
+		<id>121</id>
+		<naziv>Jude the Obscure</naziv>
+		<autor>Thomas Hardy</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>512</stranice>
+	</knjiga>
+	<knjiga>
+		<id>122</id>
+		<naziv>Vanity Fair</naziv>
+		<autor>William Makepeace Thackeray</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>912</stranice>
+	</knjiga>
+	<knjiga>
+		<id>123</id>
+		<naziv>The Scarlet Letter</naziv>
+		<autor>Nathaniel Hawthorne</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>272</stranice>
+	</knjiga>
+	<knjiga>
+		<id>124</id>
+		<naziv>The House of the Seven Gables</naziv>
+		<autor>Nathaniel Hawthorne</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>344</stranice>
+	</knjiga>
+	<knjiga>
+		<id>125</id>
+		<naziv>The Brothers Karamazov</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>796</stranice>
+	</knjiga>
+	<knjiga>
+		<id>126</id>
+		<naziv>Ulysses</naziv>
+		<autor>James Joyce</autor>
+		<zanr>Modernist Fiction</zanr>
+		<stranice>730</stranice>
+	</knjiga>
+	<knjiga>
+		<id>127</id>
+		<naziv>Finnegans Wake</naziv>
+		<autor>James Joyce</autor>
+		<zanr>Modernist Fiction</zanr>
+		<stranice>628</stranice>
+	</knjiga>
+	<knjiga>
+		<id>128</id>
+		<naziv>One Hundred Years of Solitude</naziv>
+		<autor>Gabriel García Márquez</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>417</stranice>
+	</knjiga>
+	<knjiga>
+		<id>129</id>
+		<naziv>Love in the Time of Cholera</naziv>
+		<autor>Gabriel García Márquez</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>348</stranice>
+	</knjiga>
+	<knjiga>
+		<id>130</id>
+		<naziv>The General in His Labyrinth</naziv>
+		<autor>Gabriel García Márquez</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>285</stranice>
+	</knjiga>
+	<knjiga>
+		<id>131</id>
+		<naziv>The Autumn of the Patriarch</naziv>
+		<autor>Gabriel García Márquez</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>255</stranice>
+	</knjiga>
+	<knjiga>
+		<id>132</id>
+		<naziv>Chronicle of a Death Foretold</naziv>
+		<autor>Gabriel García Márquez</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>120</stranice>
+	</knjiga>
+	<knjiga>
+		<id>133</id>
+		<naziv>Crime and Punishment</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>430</stranice>
+	</knjiga>
+	<knjiga>
+		<id>134</id>
+		<naziv>The Idiot</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>656</stranice>
+	</knjiga>
+	<knjiga>
+		<id>135</id>
+		<naziv>Demons</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>768</stranice>
+	</knjiga>
+	<knjiga>
+		<id>136</id>
+		<naziv>War and Peace</naziv>
+		<autor>Leo Tolstoy</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>1296</stranice>
+	</knjiga>
+	<knjiga>
+		<id>137</id>
+		<naziv>The Portrait of a Lady</naziv>
+		<autor>Henry James</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>672</stranice>
+	</knjiga>
+	<knjiga>
+		<id>138</id>
+		<naziv>Crime and Punishment</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>430</stranice>
+	</knjiga>
+	<knjiga>
+		<id>139</id>
+		<naziv>The Great Gatsby</naziv>
+		<autor>F. Scott Fitzgerald</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>218</stranice>
+	</knjiga>
+	<knjiga>
+		<id>140</id>
+		<naziv>Moby-Dick</naziv>
+		<autor>Herman Melville</autor>
+		<zanr>Adventure</zanr>
+		<stranice>720</stranice>
+	</knjiga>
+	<knjiga>
+		<id>141</id>
+		<naziv>To Kill a Mockingbird</naziv>
+		<autor>Harper Lee</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>336</stranice>
+	</knjiga>
+	<knjiga>
+		<id>142</id>
+		<naziv>Pride and Prejudice</naziv>
+		<autor>Jane Austen</autor>
+		<zanr>Romance</zanr>
+		<stranice>279</stranice>
+	</knjiga>
+	<knjiga>
+		<id>143</id>
+		<naziv>1984</naziv>
+		<autor>George Orwell</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>328</stranice>
+	</knjiga>
+	<knjiga>
+		<id>144</id>
+		<naziv>Brave New World</naziv>
+		<autor>Aldous Huxley</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>268</stranice>
+	</knjiga>
+	<knjiga>
+		<id>145</id>
+		<naziv>The Catcher in the Rye</naziv>
+		<autor>J.D. Salinger</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>234</stranice>
+	</knjiga>
+	<knjiga>
+		<id>146</id>
+		<naziv>Animal Farm</naziv>
+		<autor>George Orwell</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>112</stranice>
+	</knjiga>
+	<knjiga>
+		<id>147</id>
+		<naziv>Lord of the Flies</naziv>
+		<autor>William Golding</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>224</stranice>
+	</knjiga>
+	<knjiga>
+		<id>148</id>
+		<naziv>Frankenstein</naziv>
+		<autor>Mary Shelley</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>280</stranice>
+	</knjiga>
+	<knjiga>
+		<id>149</id>
+		<naziv>Dracula</naziv>
+		<autor>Bram Stoker</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>418</stranice>
+	</knjiga>
+	<knjiga>
+		<id>150</id>
+		<naziv>The Picture of Dorian Gray</naziv>
+		<autor>Oscar Wilde</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>254</stranice>
+	</knjiga>
+	<knjiga>
+		<id>151</id>
+		<naziv>The Metamorphosis</naziv>
+		<autor>Franz Kafka</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>201</stranice>
+	</knjiga>
+	<knjiga>
+		<id>152</id>
+		<naziv>Heart of Darkness</naziv>
+		<autor>Joseph Conrad</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>152</stranice>
+	</knjiga>
+	<knjiga>
+		<id>153</id>
+		<naziv>Jane Eyre</naziv>
+		<autor>Charlotte Brontë</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>507</stranice>
+	</knjiga>
+	<knjiga>
+		<id>154</id>
+		<naziv>Crime and Punishment</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>430</stranice>
+	</knjiga>
+	<knjiga>
+		<id>155</id>
+		<naziv>The Old Man and the Sea</naziv>
+		<autor>Ernest Hemingway</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>132</stranice>
+	</knjiga>
+	<knjiga>
+		<id>156</id>
+		<naziv>The Sun Also Rises</naziv>
+		<autor>Ernest Hemingway</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>251</stranice>
+	</knjiga>
+	<knjiga>
+		<id>157</id>
+		<naziv>The Call of the Wild</naziv>
+		<autor>Jack London</autor>
+		<zanr>Adventure</zanr>
+		<stranice>232</stranice>
+	</knjiga>
+	<knjiga>
+		<id>158</id>
+		<naziv>White Fang</naziv>
+		<autor>Jack London</autor>
+		<zanr>Adventure</zanr>
+		<stranice>297</stranice>
+	</knjiga>
+	<knjiga>
+		<id>159</id>
+		<naziv>The Catcher in the Rye</naziv>
+		<autor>J.D. Salinger</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>234</stranice>
+	</knjiga>
+	<knjiga>
+		<id>160</id>
+		<naziv>Of Mice and Men</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>187</stranice>
+	</knjiga>
+	<knjiga>
+		<id>161</id>
+		<naziv>The Grapes of Wrath</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>464</stranice>
+	</knjiga>
+	<knjiga>
+		<id>162</id>
+		<naziv>The Hobbit</naziv>
+		<autor>J.R.R. Tolkien</autor>
+		<zanr>Fantasy</zanr>
+		<stranice>310</stranice>
+	</knjiga>
+	<knjiga>
+		<id>163</id>
+		<naziv>The Lord of the Rings</naziv>
+		<autor>J.R.R. Tolkien</autor>
+		<zanr>Fantasy</zanr>
+		<stranice>1216</stranice>
+	</knjiga>
+	<knjiga>
+		<id>164</id>
+		<naziv>The Silmarillion</naziv>
+		<autor>J.R.R. Tolkien</autor>
+		<zanr>Fantasy</zanr>
+		<stranice>365</stranice>
+	</knjiga>
+	<knjiga>
+		<id>165</id>
+		<naziv>The Wind in the Willows</naziv>
+		<autor>Kenneth Grahame</autor>
+		<zanr>Children's Literature</zanr>
+		<stranice>244</stranice>
+	</knjiga>
+	<knjiga>
+		<id>166</id>
+		<naziv>Treasure Island</naziv>
+		<autor>Robert Louis Stevenson</autor>
+		<zanr>Adventure</zanr>
+		<stranice>292</stranice>
+	</knjiga>
+	<knjiga>
+		<id>167</id>
+		<naziv>The Strange Case of Dr Jekyll and Mr Hyde</naziv>
+		<autor>Robert Louis Stevenson</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>144</stranice>
+	</knjiga>
+	<knjiga>
+		<id>168</id>
+		<naziv>The Metamorphosis</naziv>
+		<autor>Franz Kafka</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>201</stranice>
+	</knjiga>
+	<knjiga>
+		<id>169</id>
+		<naziv>Frankenstein</naziv>
+		<autor>Mary Shelley</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>280</stranice>
+	</knjiga>
+	<knjiga>
+		<id>170</id>
+		<naziv>The Catcher in the Rye</naziv>
+		<autor>J.D. Salinger</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>234</stranice>
+	</knjiga>
+	<knjiga>
+		<id>171</id>
+		<naziv>Lord of the Flies</naziv>
+		<autor>William Golding</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>224</stranice>
+	</knjiga>
+	<knjiga>
+		<id>172</id>
+		<naziv>Brave New World</naziv>
+		<autor>Aldous Huxley</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>268</stranice>
+	</knjiga>
+	<knjiga>
+		<id>173</id>
+		<naziv>The Road</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Post-Apocalyptic Fiction</zanr>
+		<stranice>287</stranice>
+	</knjiga>
+	<knjiga>
+		<id>174</id>
+		<naziv>Blood Meridian</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>351</stranice>
+	</knjiga>
+	<knjiga>
+		<id>175</id>
+		<naziv>No Country for Old Men</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Thriller</zanr>
+		<stranice>309</stranice>
+	</knjiga>
+	<knjiga>
+		<id>176</id>
+		<naziv>All the Pretty Horses</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>302</stranice>
+	</knjiga>
+	<knjiga>
+		<id>177</id>
+		<naziv>The Crossing</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>426</stranice>
+	</knjiga>
+	<knjiga>
+		<id>178</id>
+		<naziv>Cities of the Plain</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>292</stranice>
+	</knjiga>
+	<knjiga>
+		<id>179</id>
+		<naziv>The Grapes of Wrath</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>464</stranice>
+	</knjiga>
+	<knjiga>
+		<id>180</id>
+		<naziv>East of Eden</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>601</stranice>
+	</knjiga>
+	<knjiga>
+		<id>181</id>
+		<naziv>The Pearl</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>90</stranice>
+	</knjiga>
+	<knjiga>
+		<id>182</id>
+		<naziv>Of Mice and Men</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>187</stranice>
+	</knjiga>
+	<knjiga>
+		<id>183</id>
+		<naziv>The Grapes of Wrath</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>464</stranice>
+	</knjiga>
+	<knjiga>
+		<id>184</id>
+		<naziv>1984</naziv>
+		<autor>George Orwell</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>328</stranice>
+	</knjiga>
+	<knjiga>
+		<id>185</id>
+		<naziv>Animal Farm</naziv>
+		<autor>George Orwell</autor>
+		<zanr>Dystopian Fiction</zanr>
+		<stranice>112</stranice>
+	</knjiga>
+	<knjiga>
+		<id>186</id>
+		<naziv>The Road</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Post-Apocalyptic Fiction</zanr>
+		<stranice>287</stranice>
+	</knjiga>
+	<knjiga>
+		<id>187</id>
+		<naziv>Blood Meridian</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>351</stranice>
+	</knjiga>
+	<knjiga>
+		<id>188</id>
+		<naziv>No Country for Old Men</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Thriller</zanr>
+		<stranice>309</stranice>
+	</knjiga>
+	<knjiga>
+		<id>189</id>
+		<naziv>All the Pretty Horses</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>302</stranice>
+	</knjiga>
+	<knjiga>
+		<id>190</id>
+		<naziv>The Crossing</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>426</stranice>
+	</knjiga>
+	<knjiga>
+		<id>191</id>
+		<naziv>Cities of the Plain</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>292</stranice>
+	</knjiga>
+	<knjiga>
+		<id>192</id>
+		<naziv>The Grapes of Wrath</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>464</stranice>
+	</knjiga>
+	<knjiga>
+		<id>193</id>
+		<naziv>East of Eden</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>601</stranice>
+	</knjiga>
+	<knjiga>
+		<id>194</id>
+		<naziv>The Pearl</naziv>
+		<autor>John Steinbeck</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>90</stranice>
+	</knjiga>
+	<knjiga>
+		<id>195</id>
+		<naziv>The Road</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Post-Apocalyptic Fiction</zanr>
+		<stranice>287</stranice>
+	</knjiga>
+	<knjiga>
+		<id>196</id>
+		<naziv>Blood Meridian</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>351</stranice>
+	</knjiga>
+	<knjiga>
+		<id>197</id>
+		<naziv>No Country for Old Men</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Thriller</zanr>
+		<stranice>309</stranice>
+	</knjiga>
+	<knjiga>
+		<id>198</id>
+		<naziv>All the Pretty Horses</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>302</stranice>
+	</knjiga>
+	<knjiga>
+		<id>199</id>
+		<naziv>The Crossing</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>426</stranice>
+	</knjiga>
+	<knjiga>
+		<id>200</id>
+		<naziv>Cities of the Plain</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>292</stranice>
+	</knjiga>
+	<knjiga>
+		<id>201</id>
+		<naziv>Heart of Darkness</naziv>
+		<autor>Joseph Conrad</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>152</stranice>
+	</knjiga>
+	<knjiga>
+		<id>202</id>
+		<naziv>Jane Eyre</naziv>
+		<autor>Charlotte Brontë</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>507</stranice>
+	</knjiga>
+	<knjiga>
+		<id>203</id>
+		<naziv>The Old Man and the Sea</naziv>
+		<autor>Ernest Hemingway</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>132</stranice>
+	</knjiga>
+	<knjiga>
+		<id>204</id>
+		<naziv>The Sun Also Rises</naziv>
+		<autor>Ernest Hemingway</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>251</stranice>
+	</knjiga>
+	<knjiga>
+		<id>205</id>
+		<naziv>Chronicle of a Death Foretold</naziv>
+		<autor>Gabriel García Márquez</autor>
+		<zanr>Magic Realism</zanr>
+		<stranice>120</stranice>
+	</knjiga>
+	<knjiga>
+		<id>206</id>
+		<naziv>To Kill a Mockingbird</naziv>
+		<autor>Harper Lee</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>336</stranice>
+	</knjiga>
+	<knjiga>
+		<id>207</id>
+		<naziv>The Great Gatsby</naziv>
+		<autor>F. Scott Fitzgerald</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>218</stranice>
+	</knjiga>
+	<knjiga>
+		<id>208</id>
+		<naziv>Moby-Dick</naziv>
+		<autor>Herman Melville</autor>
+		<zanr>Adventure</zanr>
+		<stranice>720</stranice>
+	</knjiga>
+	<knjiga>
+		<id>209</id>
+		<naziv>The Idiot</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>656</stranice>
+	</knjiga>
+	<knjiga>
+		<id>210</id>
+		<naziv>Demons</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>768</stranice>
+	</knjiga>
+	<knjiga>
+		<id>211</id>
+		<naziv>War and Peace</naziv>
+		<autor>Leo Tolstoy</autor>
+		<zanr>Historical Fiction</zanr>
+		<stranice>1296</stranice>
+	</knjiga>
+	<knjiga>
+		<id>212</id>
+		<naziv>The Portrait of a Lady</naziv>
+		<autor>Henry James</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>672</stranice>
+	</knjiga>
+	<knjiga>
+		<id>213</id>
+		<naziv>Crime and Punishment</naziv>
+		<autor>Fyodor Dostoevsky</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>430</stranice>
+	</knjiga>
+	<knjiga>
+		<id>214</id>
+		<naziv>The Great Gatsby</naziv>
+		<autor>F. Scott Fitzgerald</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>218</stranice>
+	</knjiga>
+	<knjiga>
+		<id>215</id>
+		<naziv>The Metamorphosis</naziv>
+		<autor>Franz Kafka</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>201</stranice>
+	</knjiga>
+	<knjiga>
+		<id>217</id>
+		<naziv>Frankenstein</naziv>
+		<autor>Mary Shelley</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>280</stranice>
+	</knjiga>
+	<knjiga>
+		<id>218</id>
+		<naziv>Dracula</naziv>
+		<autor>Bram Stoker</autor>
+		<zanr>Gothic Fiction</zanr>
+		<stranice>418</stranice>
+	</knjiga>
+	<knjiga>
+		<id>219</id>
+		<naziv>The Picture of Dorian Gray</naziv>
+		<autor>Oscar Wilde</autor>
+		<zanr>Philosophical Fiction</zanr>
+		<stranice>254</stranice>
+	</knjiga>
+	<knjiga>
+		<id>220</id>
+		<naziv>The Call of the Wild</naziv>
+		<autor>Jack London</autor>
+		<zanr>Adventure</zanr>
+		<stranice>232</stranice>
+	</knjiga>
+	<knjiga>
+		<id>221</id>
+		<naziv>White Fang</naziv>
+		<autor>Jack London</autor>
+		<zanr>Adventure</zanr>
+		<stranice>297</stranice>
+	</knjiga>
+	<knjiga>
+		<id>222</id>
+		<naziv>Heart of Darkness</naziv>
+		<autor>Joseph Conrad</autor>
+		<zanr>Literary Fiction</zanr>
+		<stranice>152</stranice>
+	</knjiga>
+	<knjiga>
+		<id>223</id>
+		<naziv>The Roadd</naziv>
+		<autor>Cormacc McCarthy</autor>
+		<zanr>Post-Apoc</zanr>
+		<stranice>288</stranice>
+	</knjiga>
+	<knjiga>
+		<id>224</id>
+		<naziv>Blood Meridian</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Western Fiction</zanr>
+		<stranice>351</stranice>
+	</knjiga>
+	<knjiga>
+		<id>225</id>
+		<naziv>No Country for Old Men</naziv>
+		<autor>Cormac McCarthy</autor>
+		<zanr>Thriller</zanr>
+		<stranice>312</stranice>
+	</knjiga>
+	<knjiga>
+		<id>226</id>
+		<naziv>Na Drini cuprija</naziv>
+		<autor>Ivo Andric</autor>
+		<zanr>Poetry</zanr>
+		<stranice>92</stranice>
+	</knjiga>	<knjiga>
+		<id>227</id>
+		<naziv>The Return of Phillip Latinowicz</naziv>
+		<autor>Miroslav Krleža</autor>
+		<zanr>Philosophical Novel</zanr>
+		<stranice>232</stranice>
+	</knjiga>
+</popis>

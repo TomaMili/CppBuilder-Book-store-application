@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+	<xs:element name="popis" type="popisType"/>
+	<xs:complexType name="popisType"><xs:annotation>
+			<xs:appinfo xdb:docElement="popis"/>
+		</xs:annotation>
+		<sequence xmlns="http://www.w3.org/2001/XMLSchema">
+			<xs:element name="knjiga" type="knjigaType" maxOccurs="unbounded"/>
+		</sequence>
+	</xs:complexType>
+	<xs:complexType name="knjigaType">
+		<sequence xmlns="http://www.w3.org/2001/XMLSchema">
+			<xs:element name="id" type="xs:integer"/>
+			<xs:element name="naziv" type="xs:string"/>
+			<xs:element name="zanr" type="xs:string"/>
+			<xs:element name="autor" type="xs:string"/>
+			<xs:element name="stranice" type="xs:integer"/>
+		</sequence>
+	</xs:complexType>
+</xs:schema>
